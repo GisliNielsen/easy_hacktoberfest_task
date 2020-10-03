@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Snap Screenshot</string>
     <string name="notify_record">Ta opp</string>
-    <string name="notify_stop">Stopp </string>
+    <string name="notify_stop">Stopp</string>
     <string name="start_snap_screenshot">Start Snap Screenshot</string>
     <string name="snap_screenshot_running">Snap Screenshot kjører</string>
     <string name="camera_icon">Kamera Ikon</string>
